@@ -1,0 +1,18 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Aplicação nodejs de oi mundo",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello-world"
+  ],
+  "author": "tiago nogueira",
+  "license": "MIT"
+}
